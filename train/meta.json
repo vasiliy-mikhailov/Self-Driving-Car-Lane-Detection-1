@@ -1,0 +1,22 @@
+{
+    "classes": [
+        {
+            "title": "Left lane",
+            "shape": "line",
+            "color": "#AC35A4",
+            "geometry_config": {},
+            "id": 2738779,
+            "hotkey": ""
+        },
+        {
+            "title": "Right lane",
+            "shape": "line",
+            "color": "#417505",
+            "geometry_config": {},
+            "id": 2738800,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

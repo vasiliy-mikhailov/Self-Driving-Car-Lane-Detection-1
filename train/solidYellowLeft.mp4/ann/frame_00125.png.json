@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 960
+    },
+    "objects": [
+        {
+            "id": 582704124,
+            "classId": 2738779,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "vasiliy.mikhalov@gmail.com",
+            "createdAt": "2020-12-11T08:22:39.076Z",
+            "updatedAt": "2020-12-11T08:34:47.359Z",
+            "tags": [],
+            "classTitle": "Left lane",
+            "points": {
+                "exterior": [
+                    [
+                        152,
+                        539
+                    ],
+                    [
+                        445,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 582706212,
+            "classId": 2738800,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "vasiliy.mikhalov@gmail.com",
+            "createdAt": "2020-12-11T08:34:47.237Z",
+            "updatedAt": "2020-12-11T08:34:47.237Z",
+            "tags": [],
+            "classTitle": "Right lane",
+            "points": {
+                "exterior": [
+                    [
+                        538,
+                        341
+                    ],
+                    [
+                        846,
+                        539
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
