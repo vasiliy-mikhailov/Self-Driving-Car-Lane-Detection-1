@@ -8,6 +8,7 @@ The goal of this project is to build pipeline that detects lane markings on the 
 
 Example input images
 
+![Example 1](test_images/solidWhiteCurve.jpg?raw=true "Example 1")
 [image1]: ./test_images/solidWhiteCurve.jpg "Example 1"
 [image2]: ./test_images/solidYellowCurve.jpg "Example 2"
 
