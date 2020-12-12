@@ -7,15 +7,12 @@
 The goal of this project is to build pipeline that detects lane markings on the road.
 
 Example input images
-
 ![Example 1](test_images/solidWhiteCurve.jpg?raw=true "Example 1")
-[image1]: ./test_images/solidWhiteCurve.jpg "Example 1"
-[image2]: ./test_images/solidYellowCurve.jpg "Example 2"
+![Example 2](test_images/solidYellowCurve.jpg?raw=true "Example 2")
 
 Example output images
-
-[image3]: ./test_images_output/solidWhiteCurve.jpg "Example 1"
-[image4]: ./test_images_output/solidYellowCurve.jpg "Example 2"
+![Example 1](test_images_output/solidWhiteCurve.jpg?raw=true "Example 1")
+![Example 2](test_images_output/solidYellowCurve.jpg?raw=true "Example 2")
 
 ---
 
